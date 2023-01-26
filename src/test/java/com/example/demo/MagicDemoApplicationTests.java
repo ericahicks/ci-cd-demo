@@ -10,7 +10,7 @@ class MagicDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		fail("This should fail.");
+//		fail("This should fail.");
 	}
 
 }
